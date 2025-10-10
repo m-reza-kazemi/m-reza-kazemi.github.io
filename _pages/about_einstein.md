@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Mohammadreza "Reza" Kazemi. I am a fourth-year student at Florida International University, studying electrical engineering. I am broadly interested in control theory and optimization as a lens to think deeply about the world and to come up with solutions to problems I think are worth solving.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This website is going to serve as mainly a medium for me to share some of my thoughts that would otherwise go unspoken. For me, this will be helpful in organizing my thoughts and documenting them. For you, this will be helpful in gauging, more or less, my philosphy towards research, life, etc.
